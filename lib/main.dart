@@ -10,7 +10,7 @@ void main() {
           backgroundColor: Colors.blueGrey[900],
           title: Center(
             child: Text(
-              'Hello Jananga',
+              'Jananaga',
               style: TextStyle(
                 color: Colors.white,
               ),
